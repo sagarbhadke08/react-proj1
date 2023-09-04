@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1> Jai Shankar</h1>
+          <h1>Shri</h1>
           Hey My Name is Sagar Bhadke 
       
         </a>
